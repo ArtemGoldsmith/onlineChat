@@ -1,7 +1,7 @@
 # OnlineChat
 ## Node.js
 To start node server use use should write ``node server.js``
-But you can watch your server changes with **nodemon**, so you can just write
+But you can watch your server changes with **nodemon**, so you can just write:
 ```$xslt
 nodemon server.js
 ```
